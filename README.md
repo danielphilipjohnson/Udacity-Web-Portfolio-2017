@@ -53,7 +53,6 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 
 #### Module 4: Website Optimization Browser
 ##### Rendering and Web Performance Optimization RAIL, jank, critical rendering path
-
     - Recognize the four distinct phases in an app's lifecycle: Response, Animation, Idle and Load (RAIL)
     - Profile different apps to find the source of jank
     - Optimize layers to reduce the number of steps the browser needs to take to render each frame
