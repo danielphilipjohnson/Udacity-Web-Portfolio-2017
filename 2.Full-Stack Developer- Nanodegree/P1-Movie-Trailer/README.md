@@ -1,6 +1,4 @@
-# Full-Stack Udacity Project 1
-
-## Movie Trailer
+# Full-Stack Udacity Project 1: Movie Trailer
 
 ![Movie Trailer](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/Full-Stack-Developer-Nanondegree/2.Full-Stack%20Developer-%20Nanodegree/P1-Movie-Trailer/Project%20images/top10.PNG)
 
