@@ -84,5 +84,47 @@ Add entities to a game loop engine and create the classic arcade game Frogger
     - Meme Generator
     - Responsive Web development
 
-    
+### Full-Stack Developer Nanondegree
+
+#### Module 1: Movie trailer Django
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+|  Python 3       |   Django v1.11|   CSS, Bootstrap 4, Fontawesome     | Bootstrap.js, jquery, popper.js   |
+
+
+#### Module 2: Portfolio 
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+|  Javascript  | Node, Express , pug | CSS, Bootstrap 3 | Bootstrap.js, jquery, popper.js, myHelper.js, resumeBuilder.js |
+
+#### Module 3: Multi-user blog 
+
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+| Python 3  | Flask, SQL Alchemy   | CSS, w3school.css    |  ---   |
+
+
+#### Module 4: Item Catalog
+
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+| Python 3  | Flask, SQL Alchemy   | CSS, Bulma    |  jQuery  |
+
+
+#### Module 5: Swish Tournament
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+| Python 3  | Flask, SQL Alchemy   | CSS, Bootstrap 4    |  jQuery  |
+
+#### Module 6: Neighbourhood Project
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+| Javascript  | Node, Express   | CSS, EJS    |  Local Storage, Google Maps, Jquery, jquery ui, zango, indexed DB |
+
+
+
+
+
+
+
 Daniel Philip Johnson: All code.
