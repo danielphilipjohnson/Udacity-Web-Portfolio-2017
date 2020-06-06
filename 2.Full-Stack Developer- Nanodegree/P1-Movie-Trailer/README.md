@@ -1,12 +1,12 @@
 # Full-Stack Udacity Project 1
 
 ## Movie Trailer
-Homepage
-add codepen
+
+![Movie Trailer](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/Full-Stack-Developer-Nanondegree/2.Full-Stack%20Developer-%20Nanodegree/P1-Movie-Trailer/Project%20images/top10.PNG)
 
 ### Installation
 
-Windows 
+#### Windows 
 
 ` cd to ..\env\Scripts  folder
 
@@ -15,11 +15,9 @@ Windows
 ` cd ..\ProjectMovieTrailer\mymovietrailersite 
 
 ` python manage.py runserver
+` open browser navigate to  127.0.0.1:8000/
 
-open browser navigate to ` 127.0.0.1:8000/
-
-
-Linux
+#### Linux
 
 ` cd to ../env/Scripts  folder
 
@@ -29,31 +27,20 @@ Linux
 
 ` python manage.py runserver
 
-
-open browser navigate to ` 127.0.0.1:8000/
+` open browser navigate to 127.0.0.1:8000/
 
 ### Whats used 
-- Python v3
-- Django v1.11
-- Styling
-    - CSS
-    - Bootstrap 4
-    - fontawesome
-- JS
-    - Bootstrap js
-    - Jquery
-    - popper js
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+|  Python 3       |   Django v1.11 |   CSS, Bootstrap 4, Fontawesome     | Bootstrap.js, jquery, popper.js   |
  
-### Database
+### Database Tables
 - Movie
 - Movies_liked
 - Movies_owned
 - Latest_Arrivals
 - Latest_FavoriteCollection
 - Home_Page_Covers
-- Future improvements
-    - Reviews
-    - User_Profile
 
 ### Routes
 - /
