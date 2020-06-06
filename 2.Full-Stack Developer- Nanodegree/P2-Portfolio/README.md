@@ -1,6 +1,5 @@
-# Full-Stack Udacity Project 2
-
-## Portfolio
+# Full-Stack Udacity Project 2: Portfolio
+![Portfolio](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/Full-Stack-Developer-Nanondegree/2.Full-Stack%20Developer-%20Nanodegree/P2-Portfolio/Project%20Images/index.PNG)
 
 ### Installation
 
@@ -10,19 +9,9 @@ Install dependencies
 `npm start
 
 ### Whats used 
-- Node
-- Express
-- Styling
-    - PUG
-    - CSS
-    - Bootstrap 3
-    - fontawesome
-- JS
-    - Bootstrap js
-    - Jquery
-    - popper js
-    - Custom Js resume building
-    - js helper
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+|  Javascript  | Node, Express , pug | CSS, Bootstrap 3 | Bootstrap.js, jquery, popper.js, myHelper.js, resumeBuilder.js |
 
 ### Routes
 - /

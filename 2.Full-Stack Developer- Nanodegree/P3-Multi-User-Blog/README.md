@@ -1,10 +1,8 @@
-# Full-Stack Udacity Project 3
-
-## Simple Blog
+# Full-Stack Udacity Project 3: Multi-User-Blog
 I wanted to focus more on Database functionality like SQL alchemy and password libraries
 
-Homepage
-Add code pen link
+![Portfolio](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/Full-Stack-Developer-Nanondegree/2.Full-Stack%20Developer-%20Nanodegree/P3-Multi-User-Blog/Project%20Images/blogindex.PNG)
+
 
 ### Installation
 1. run blog_setup.py to create the database
@@ -32,23 +30,11 @@ password: d
 
 
 ### Whats used 
-- Python v3
-- Flask
-- SQL alchemy
-- Styling
-    - CSS
-    - W3 school css
-    
-- JS
-    - custom js inlined on landing page
-- python 
-    - password.py: uses pbkdf2_sha256
-        - random salt
-        - create password
-        - validate password
-        - make salt
-    - create data and populate database
-    - /CreateData
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+| Python 3  | Flask, SQL Alchemy   | CSS, w3school.css    |  ---   |
+
+
 ### Database models
 - Gender
 - Users

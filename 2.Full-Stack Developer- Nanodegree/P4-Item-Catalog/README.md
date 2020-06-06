@@ -1,9 +1,4 @@
-# Full-Stack Udacity Project 4
-
-## Item Catalog: Restaurant menu items
-
-Homepage
-add codepen link
+# Full-Stack Udacity Project 4: Item Catalog
 
 ## description of project
 You will develop an application that provides a list of items within a variety of categories as well as provide a user 
@@ -30,17 +25,11 @@ Dependencies:
 3. run `python3 ./item-catalog.py and navigate to localhost:5000 in your browser
 
 ### Whats used 
-- Python v3
-- Flask v1.11
-- SQL Alchemy
-- Styling
-    - CSS
-    - Bulma css
-    - fontawesome
-- JS
-    - Jquery
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+| Python 3  | Flask, SQL Alchemy   | CSS, Bulma    |  jQuery  |
  
-### Database
+### Database Tables
 - Restaurant
 - MenuItem
 

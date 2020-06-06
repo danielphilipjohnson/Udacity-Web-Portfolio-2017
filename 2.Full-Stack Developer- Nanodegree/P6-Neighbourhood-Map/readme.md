@@ -1,6 +1,4 @@
-# Udacity Full Stack Project
-
-## Project: Neighborhood Map
+# Full-Stack Udacity Project 6 : Neighborhood Map
 You will develop a single-page application featuring a map of your neighborhood or a 
 neighborhood you would like to visit. You will then add additional functionality to 
 this application, including: map markers to identify popular locations or places you’d 
@@ -25,17 +23,10 @@ populate db: mongoimport
 ` npm start
 
 ### Whats used 
-- Node
-- Express
-- Styling
-    - EJS
-    - CSS
-- JS
-    - Local Storage
-    - Google Maps 
-    - Node, Express, EJS 
-    - Jquery, jquery ui 
-    - zango indexed db
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+| Javascript  | Node, Express   | CSS, EJS    |  Local Storage, Google Maps, Jquery, jquery ui, zango, indexed DB |
+
 
 ### Routes
 - /

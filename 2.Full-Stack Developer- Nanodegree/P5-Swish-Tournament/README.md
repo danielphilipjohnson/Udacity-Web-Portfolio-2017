@@ -1,7 +1,4 @@
-# Full-Stack Udacity Project 5
-
-## Swiss Tournament: Creepy Pasta style
-
+# Full-Stack Udacity Project 5: Swiss Tournament
 Building a Swish Tournment and using a relational database with an ORM 
 
 ## description of project
@@ -26,14 +23,9 @@ To run this final project:
 
 
 ### Whats used 
-- Python v3
-- Flask v1.11
-- SQL Alchemy
-- Styling
-    - bootstrap 4
-    - fontawesome
-- JS
-    - Jquery
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+| Python 3  | Flask, SQL Alchemy   | CSS, Bootstrap 4    |  jQuery  |
  
 ### Database
 - Character
