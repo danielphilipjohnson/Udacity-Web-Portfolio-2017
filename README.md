@@ -4,6 +4,8 @@
 - Front-End Developer Nanodegree
 - Full-Stack Developer Nanondegree
 
+
+
 ### Front-End Developer Nanodegree
 Description: https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001 . 
 
@@ -53,6 +55,7 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 
 #### Module 4: Website Optimization Browser
 ##### Rendering and Web Performance Optimization RAIL, jank, critical rendering path
+
     - Recognize the four distinct phases in an app's lifecycle: Response, Animation, Idle and Load (RAIL)
     - Profile different apps to find the source of jank
     - Optimize layers to reduce the number of steps the browser needs to take to render each frame
@@ -60,7 +63,7 @@ Add entities to a game loop engine and create the classic arcade game Frogger
     - Use key metrics to triangulate potential performance bottlenecks project 4
 
 #### Module5: Neighborhood Map
-##### AJAX & JavaScript Design Patterns
+#####AJAX & JavaScript Design Patterns
 
     - Create a single page app featuring a map of a neighborhood of your choice
     - Query servers using AJAX
@@ -81,5 +84,43 @@ Add entities to a game loop engine and create the classic arcade game Frogger
     - Meme Generator
     - Responsive Web development
 
-    
+### Full-Stack Developer Nanondegree
+
+#### Module 1: Movie trailer Django
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+|  Python 3       |   Django v1.11|   CSS, Bootstrap 4, Fontawesome     | Bootstrap.js, jquery, popper.js   |
+
+
+#### Module 2: Portfolio 
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+|  Javascript  | Node, Express , pug | CSS, Bootstrap 3 | Bootstrap.js, jquery, popper.js, myHelper.js, resumeBuilder.js |
+
+#### Module 3: Multi-user blog 
+
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+| Python 3  | Flask, SQL Alchemy   | CSS, w3school.css    |  ---   |
+
+
+#### Module 4: Item Catalog
+
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+| Python 3  | Flask, SQL Alchemy   | CSS, Bulma    |  jQuery  |
+
+
+#### Module 5: Swish Tournament
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+| Python 3  | Flask, SQL Alchemy   | CSS, Bootstrap 4    |  jQuery  |
+
+#### Module 6: Neighbourhood Project
+| Languages Usage | Framework | Styling | Js |
+| --------------- | --------- | ------- |----|
+| Javascript  | Node, Express   | CSS, EJS    |  Local Storage, Google Maps, Jquery, jquery ui, zango, indexed DB |
+
+
+
 Daniel Philip Johnson: All code.
