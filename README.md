@@ -4,8 +4,6 @@
 - Front-End Developer Nanodegree
 - Full-Stack Developer Nanondegree
 
-
-
 ### Front-End Developer Nanodegree
 Description: https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001 . 
 
@@ -63,7 +61,7 @@ Add entities to a game loop engine and create the classic arcade game Frogger
     - Use key metrics to triangulate potential performance bottlenecks project 4
 
 #### Module5: Neighborhood Map
-#####AJAX & JavaScript Design Patterns
+##### AJAX & JavaScript Design Patterns
 
     - Create a single page app featuring a map of a neighborhood of your choice
     - Query servers using AJAX
