@@ -22,6 +22,9 @@ Projects
 
 
 #### Module 1: Build a Portfolio Site
+
+![Design Mockup](https://res.cloudinary.com/dpj88/image/upload/v1591544502/Front-end-P1/p1/mydesign_n0qkb5.png)
+
 ##### Introduction to Web Development
 
 - Precisely translate initial design documents into static web pages
@@ -32,6 +35,9 @@ Projects
 - Image
 
 #### Module 2: Interactive Resume
+
+![my design](https://res.cloudinary.com/dpj88/image/upload/v1591544565/Front-end-P1/p2/mydesign_k3zfft.png)
+
 ##### JavaScript Basics
 
 - Transform static web pages into dynamic applications
@@ -41,6 +47,9 @@ Projects
 - The resume you create will not only help you build important skills, but will also make it easy to show employers why you’re perfect for the job.
 
 #### Module 3: Classic Arcade Game Clone  
+
+![game ui](https://res.cloudinary.com/dpj88/image/upload/v1591544575/Front-end-P1/p3/gameui_bf1gey.png)
+
 ##### OOP Javascript & HTML5 Canvas
 
 Add entities to a game loop engine and create the classic arcade game Frogger
@@ -53,6 +62,8 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 - Create animations
 
 #### Module 4: Website Optimization Browser
+
+
 ##### Rendering and Web Performance Optimization RAIL, jank, critical rendering path
 - Recognize the four distinct phases in an app's lifecycle: Response, Animation, Idle and Load (RAIL)
 - Profile different apps to find the source of jank
@@ -61,7 +72,10 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 - Use key metrics to triangulate potential performance bottlenecks project 4
 
 #### Module5: Neighborhood Map
-#####AJAX & JavaScript Design Patterns
+
+![project](https://res.cloudinary.com/dpj88/image/upload/v1591544594/Front-end-P1/p5/completed_project_b1f5mh.png)
+
+##### AJAX & JavaScript Design Patterns
 
 - Create a single page app featuring a map of a neighborhood of your choice
 - Query servers using AJAX
@@ -71,6 +85,9 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 - Use third-party libraries and APIs project 5
 
 #### Module 6: Feed Reader Testing
+
+![project](https://res.cloudinary.com/dpj88/image/upload/v1591544613/Front-end-P1/p6/completed_vwt3ii.png)
+
 ##### JavaScript Testing
 
 - Complete a test suite for an existing web-based application
@@ -79,7 +96,10 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 - Test asynchronous functions project 6
 
 #### Module 7: Bonus Projects
-- Meme Generator
+
+##### Meme Generator
+![project](https://res.cloudinary.com/dpj88/image/upload/v1591544628/Front-end-P1/p7/design_dbemv2.png)
+
 - Responsive Web development
 
 ### Full-Stack Developer Nanondegree

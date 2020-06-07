@@ -19,3 +19,7 @@ Your mission is to find and fix the issues, and make the app gloriously performa
 See /LICENSE for more.
 
 This is not a Google product.
+
+
+## Layout
+![project](https://res.cloudinary.com/dpj88/image/upload/v1591544584/Front-end-P1/p4/completed_rhnxad.png)
