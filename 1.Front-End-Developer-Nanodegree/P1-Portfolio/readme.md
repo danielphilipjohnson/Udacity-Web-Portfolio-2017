@@ -1,15 +1,14 @@
 # P1: Portofolio
 
 ## Design Mockup
-![Design Mockup](https://github.com/UndreamtMayhem/Udacity-Front-End-Web-Development/blob/master/P1-Portfolio/rubrics/design-mockup.PNG)
+![Design Mockup](https://res.cloudinary.com/dpj88/image/upload/v1591544499/Front-end-P1/p1/design-mockup_rjodo6.png)
 
 
 ## Completed Project
-![Design Mockup](https://github.com/UndreamtMayhem/Udacity-Front-End-Web-Development/blob/master/P1-Portfolio/rubrics/mydesign.PNG
-)
+![Design Mockup](https://res.cloudinary.com/dpj88/image/upload/v1591544502/Front-end-P1/p1/mydesign_n0qkb5.png)
 
 ## Rubics
-![Rubics](https://github.com/UndreamtMayhem/Udacity-Front-End-Web-Development/blob/master/P1-Portfolio/rubrics/MaI3QL0.png)
+![Rubics](https://res.cloudinary.com/dpj88/image/upload/v1591544504/Front-end-P1/p1/rubic_sdy9lw.png)
 
 ## Style Guidelines
 
