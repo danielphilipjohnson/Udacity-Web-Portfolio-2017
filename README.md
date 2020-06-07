@@ -9,13 +9,13 @@ Description: https://www.udacity.com/course/front-end-web-developer-nanodegree--
 
 Projects
 -----------------
-- P1: PORTFOLIO 	
-- P2: INTERACTIVE RESUME
-- P3: ARCADE GAME Frogger 	
-- P4: WEBSITE OPTIMIZATION 	
-- P5: NEIGHBOURHOOD MAP 	
-- P6: FEED READER TESTING 
-- P7: Bonus 
+    - P1: PORTFOLIO 	
+    - P2: INTERACTIVE RESUME
+    - P3: ARCADE GAME Frogger 	
+    - P4: WEBSITE OPTIMIZATION 	
+    - P5: NEIGHBOURHOOD MAP 	
+    - P6: FEED READER TESTING 
+    - P7: Bonus 
 
 
 #### Module 1: Build a Portfolio Site
