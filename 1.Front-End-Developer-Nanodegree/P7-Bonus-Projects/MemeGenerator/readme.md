@@ -1,7 +1,7 @@
 # P7: Bonus Meme Generator Using Canvas
 
 ## Project so far
-![project](https://github.com/UndreamtMayhem/Udacity-Front-End-Web-Development/blob/master/P5%20NEIGHBOURHOOD%20MAP/completed_project.PNG)
+![project](https://res.cloudinary.com/dpj88/image/upload/v1591544628/Front-end-P1/p7/design_dbemv2.png)
 
 
 ## To do

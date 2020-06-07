@@ -49,4 +49,4 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 
 
 ### Completed
-![project](https://github.com/UndreamtMayhem/Udacity-Front-End-Web-Development/blob/master/P6%20FEED%20READER%20TESTING/completed.PNG)
+![project](https://res.cloudinary.com/dpj88/image/upload/v1591544613/Front-end-P1/p6/completed_vwt3ii.png)

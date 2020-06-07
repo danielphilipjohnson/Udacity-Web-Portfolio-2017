@@ -1,4 +1,4 @@
-# P1: Portofolio
+# P1: Portfolio
 
 ## Design Mockup
 ![Design Mockup](https://res.cloudinary.com/dpj88/image/upload/v1591544499/Front-end-P1/p1/design-mockup_rjodo6.png)

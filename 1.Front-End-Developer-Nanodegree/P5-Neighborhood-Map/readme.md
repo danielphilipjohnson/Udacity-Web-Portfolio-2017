@@ -1,8 +1,7 @@
 # P5: NeighbourHood Map
 
 ## Completed Project
-![project](https://github.com/UndreamtMayhem/Udacity-Front-End-Web-Development/blob/master/P5-NEIGHBOURHOOD-MAP/completed_project.PNG)
-
+![project](https://res.cloudinary.com/dpj88/image/upload/v1591544594/Front-end-P1/p5/completed_project_b1f5mh.png)
 
 ## Requires Python to be installed
 ### Mac and Linux: Terminal

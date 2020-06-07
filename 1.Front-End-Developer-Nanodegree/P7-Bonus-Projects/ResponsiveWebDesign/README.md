@@ -30,4 +30,4 @@ Check the page from Page Speed Insights -- lots more problems!
 
 
 ## Completed
-![project](https://github.com/UndreamtMayhem/Udacity-Front-End-Web-Development/blob/master/P7%20Bonus/ResponsiveWebDesign/completed.PNG)
+![project](https://res.cloudinary.com/dpj88/image/upload/v1591544633/Front-end-P1/p7/completed_qg8eds.png)

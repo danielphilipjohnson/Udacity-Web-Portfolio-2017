@@ -107,4 +107,4 @@ The resume has four distinct sections: work, education, projects and a header wi
 
 
 ### My Design
-![my design](https://github.com/UndreamtMayhem/Udacity-Front-End-Web-Development/blob/master/P2%20INTERACTIVE%20RESUME/mydesign.PNG)
+![my design](https://res.cloudinary.com/dpj88/image/upload/v1591544565/Front-end-P1/p2/mydesign_k3zfft.png)
