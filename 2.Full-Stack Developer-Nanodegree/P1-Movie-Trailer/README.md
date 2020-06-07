@@ -1,6 +1,6 @@
 # Full-Stack Udacity Project 1: Movie Trailer
 
-![Movie Trailer](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/Full-Stack-Developer-Nanondegree/2.Full-Stack%20Developer-%20Nanodegree/P1-Movie-Trailer/Project%20images/top10.PNG)
+![Movie Trailer](https://res.cloudinary.com/dpj88/image/upload/v1591545727/full%20stack/p1/top10_mkqfp5.png)
 
 ### Installation
 
@@ -75,3 +75,20 @@
 - top10
 - year/<year:2018>
 - years/
+
+### Layout
+
+#### Most Owned
+![Movie Trailer](https://res.cloudinary.com/dpj88/image/upload/v1591545692/full%20stack/p1/most_owned_qekygi.png)
+
+#### Index
+![Movie Trailer](https://res.cloudinary.com/dpj88/image/upload/v1591545621/full%20stack/p1/index_kvd3al.png)
+
+#### indivdual_movie
+![Movie Trailer](https://res.cloudinary.com/dpj88/image/upload/v1591545621/full%20stack/p1/indivdual_movie_nj02vn.png)
+
+#### Footer
+![Movie Trailer](https://res.cloudinary.com/dpj88/image/upload/v1591545615/full%20stack/p1/footer_psvo6q.png)
+
+#### Latest Card
+![Movie Trailer](https://res.cloudinary.com/dpj88/image/upload/v1591545578/full%20stack/p1/lastest_card_impv0x.png)

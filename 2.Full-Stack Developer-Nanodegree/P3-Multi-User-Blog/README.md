@@ -1,7 +1,9 @@
 # Full-Stack Udacity Project 3: Multi-User-Blog
 I wanted to focus more on Database functionality like SQL alchemy and password libraries
 
-![Portfolio](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/Full-Stack-Developer-Nanondegree/2.Full-Stack%20Developer-%20Nanodegree/P3-Multi-User-Blog/Project%20Images/blogindex.PNG)
+![Portfolio](https://res.cloudinary.com/dpj88/image/upload/v1591546782/full%20stack/p3/blogindex_rjqqf0.png)
+
+![Portfolio](https://res.cloudinary.com/dpj88/image/upload/v1591546791/full%20stack/p3/registerpage_fdueb3.png)
 
 
 ### Installation
