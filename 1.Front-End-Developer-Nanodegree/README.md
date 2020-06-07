@@ -2,17 +2,19 @@
 Completed Udacity Front End Projects: https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001 . 
       
 ## Projects
-	- P1: PORTFOLIO 	
-	- P2: INTERACTIVE RESUME
-	- P3: ARCADE GAME Frogger 	
-	- P4: WEBSITE OPTIMIZATION 	
-	- P5: NEIGHBOURHOOD MAP 	
-	- P6: FEED READER TESTING 
-	- P7: Bonus 
+
+- P1: PORTFOLIO 	
+- P2: INTERACTIVE RESUME
+- P3: ARCADE GAME Frogger 	
+- P4: WEBSITE OPTIMIZATION 	
+- P5: NEIGHBOURHOOD MAP 	
+- P6: FEED READER TESTING 
+- P7: Bonus 
 
 
 ### Module 1: Build a Portfolio Site                      
 #### Introduction to Web Development
+
 - Precisely translate initial design documents into static web pages
 - Diligently employ a code/test/refine strategy
 - Investigate the Document Object Model (DOM)
@@ -21,6 +23,7 @@ Completed Udacity Front End Projects: https://www.udacity.com/course/front-end-w
 
 ### Module 2: Interactive Resume                       
 #### JavaScript Basics
+
 - Transform static web pages into dynamic applications
 - Use variables, data structures, conditional statements, loops, and function in JavaScript
 - Use the core features of jQuery -- DOM element selections, traversal and manipulation
@@ -33,6 +36,7 @@ Completed Udacity Front End Projects: https://www.udacity.com/course/front-end-w
 #### OOP Javascript & HTML5 Canvas
 
 Add entities to a game loop engine and create the classic arcade game Frogger
+
 - Utilize the various object-oriented programming features within JavaScript
 - Write reusable and maintainable libraries
 - Create well architected and performant applications
@@ -53,6 +57,7 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 
 ### Module5: Neighborhood Map 	
 #### AJAX & JavaScript Design Patterns
+
 - Create a single page app featuring a map of a neighborhood of your choice
 - Query servers using AJAX
 - Build a project with an overall organizational paradigm
@@ -63,6 +68,7 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 
 ### Module 6:  Feed Reader Testing         
 #### JavaScript Testing
+
 - Complete a test suite for an existing web-based application
 - Write comprehensive suites of tests to validate your application is functioning as intended at all times
 - Use the red-green-refactor workflow
@@ -70,8 +76,10 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 ![Feed Reader Testing](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/Front-End-Developer-Nanodegree/P6-Feed-Reader-Testing/completed.PNG)
 
 ### Bonus Projects
+
 - Meme Generator
 ![Meme Generator](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/Front-End-Developer-Nanodegree/P7-Bonus-Projects/MemeGenerator/design.PNG)
+
 
 - Responsive Web development
 ![Responsive Web development](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/Front-End-Developer-Nanodegree/P7-Bonus-Projects/ResponsiveWebDesign/completed.PNG)
