@@ -11,10 +11,8 @@
 
 ### Classic Arcade Game Clone
 
-Game Functions
+#### Game Functions
 	
-
-
 |  Criteria   | Meets Specifications                              |  
 |-------------|---------------------------------------------------|
 |  Error Free | The game functions correctly and runs error free  |   
@@ -24,10 +22,7 @@ Game Functions
 |             | Vehicle-player collision resets the game|
 |             | Something happens when player wins|
     
-
-
-
-Object-Oriented Code
+#### Object-Oriented Code
 
 |  Criteria             | Meets Specifications                                                                          |  
 |-----------------------|-----------------------------------------------------------------------------------------------|
@@ -36,7 +31,7 @@ Object-Oriented Code
 
 
 
-Documentation
+#### Documentation
 
 |  Criteria     | Meets Specifications                              |  
 |---------------|---------------------------------------------------|
