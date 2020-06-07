@@ -100,7 +100,9 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 ##### Meme Generator
 ![project](https://res.cloudinary.com/dpj88/image/upload/v1591544628/Front-end-P1/p7/design_dbemv2.png)
 
-- Responsive Web development
+##### Responsive Web development
+![Responsive Web development](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P7-Bonus-Projects/ResponsiveWebDesign/completed.PNG)
+
 
 ### Full-Stack Developer Nanondegree
 
