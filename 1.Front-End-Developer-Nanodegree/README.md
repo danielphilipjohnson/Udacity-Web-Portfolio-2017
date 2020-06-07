@@ -15,7 +15,7 @@ Completed Udacity Front End Projects: https://www.udacity.com/course/front-end-w
 ### Module 1: Build a Portfolio Site                      
 #### Introduction to Web Development
 
-![Build a Portfolio Site](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/Front-End-Developer-Nanodegree/P1-Portfolio/rubrics/mydesign.PNG)
+![Build a Portfolio Site](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P1-Portfolio/rubrics/mydesign.PNG)
 
 - Precisely translate initial design documents into static web pages
 - Diligently employ a code/test/refine strategy
@@ -26,7 +26,7 @@ Completed Udacity Front End Projects: https://www.udacity.com/course/front-end-w
 ### Module 2: Interactive Resume                       
 #### JavaScript Basics
 
-![Interactive Resume](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/Front-End-Developer-Nanodegree/P2-INTERACTIVE%20RESUME/mydesign.PNG)
+![Interactive Resume](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P2-INTERACTIVE%20RESUME/mydesign.PNG)
 
 - Transform static web pages into dynamic applications
 - Use variables, data structures, conditional statements, loops, and function in JavaScript
@@ -39,7 +39,7 @@ Completed Udacity Front End Projects: https://www.udacity.com/course/front-end-w
 ### Module 3: Classic Arcade Game Clone               
 #### OOP Javascript & HTML5 Canvas
 
-![Classic Arcade Game Clone](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/Front-End-Developer-Nanodegree/P3-Arcade-Game-Frogger/gameui.PNG)
+![Classic Arcade Game Clone](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P3-Arcade-Game-Frogger/gameui.PNG)
 
 Add entities to a game loop engine and create the classic arcade game Frogger
 
@@ -59,12 +59,12 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 - Optimize layers to reduce the number of steps the browser needs to take to render each frame
 - Measure performance via the Timeline view in Chrome Developer Tools
 - Use key metrics to triangulate potential performance bottlenecks
-![Website Optimization](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/Front-End-Developer-Nanodegree/P4-Website-optimization/completed.PNG)
+![Website Optimization](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P4-Website-optimization/completed.PNG)
 
 ### Module5: Neighborhood Map 	
 #### AJAX & JavaScript Design Patterns
 
-![Neighborhood Map](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/Front-End-Developer-Nanodegree/P5-Neighborhood-Map/completed_project.PNG)
+![Neighborhood Map](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P5-Neighborhood-Map/completed_project.PNG)
 
 - Create a single page app featuring a map of a neighborhood of your choice
 - Query servers using AJAX
@@ -77,7 +77,7 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 ### Module 6:  Feed Reader Testing         
 #### JavaScript Testing
 
-![Feed Reader Testing](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/Front-End-Developer-Nanodegree/P6-Feed-Reader-Testing/completed.PNG)
+![Feed Reader Testing](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P6-Feed-Reader-Testing/completed.PNG)
 
 - Complete a test suite for an existing web-based application
 - Write comprehensive suites of tests to validate your application is functioning as intended at all times
@@ -89,9 +89,9 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 
 #### Meme Generator
 
-![Meme Generator](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/Front-End-Developer-Nanodegree/P7-Bonus-Projects/MemeGenerator/design.PNG)
+![Meme Generator](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P7-Bonus-Projects/MemeGenerator/design.PNG)
 
 
 #### Responsive Web development
 
-![Responsive Web development](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/Front-End-Developer-Nanodegree/P7-Bonus-Projects/ResponsiveWebDesign/completed.PNG)
+![Responsive Web development](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P7-Bonus-Projects/ResponsiveWebDesign/completed.PNG)
