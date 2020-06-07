@@ -1,7 +1,7 @@
 # Full-Stack Developer Nanondegree
 
 ## Module 1: Movie trailer Django
-![Movie Trailer](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/Full-Stack-Developer-Nanondegree/2.Full-Stack%20Developer-%20Nanodegree/P1-Movie-Trailer/Project%20images/top10.PNG)
+![Movie Trailer](https://res.cloudinary.com/dpj88/image/upload/v1591545727/full%20stack/p1/top10_mkqfp5.png)
 
 
 ### Whats used
@@ -12,7 +12,7 @@
 
 ## Module 2: Portfolio 
 
-![Portfolio](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/Full-Stack-Developer-Nanondegree/2.Full-Stack%20Developer-%20Nanodegree/P2-Portfolio/Project%20Images/index.PNG)
+![Portfolio](https://res.cloudinary.com/dpj88/image/upload/v1591546247/full%20stack/p2/index_wiusts.png)
 
 ### Whats used
 | Languages Usage | Framework | Styling | Js |
@@ -21,7 +21,7 @@
 
 ## Module 3: Multi-user blog 
 
-![Portfolio](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/Full-Stack-Developer-Nanondegree/2.Full-Stack%20Developer-%20Nanodegree/P3-Multi-User-Blog/Project%20Images/blogindex.PNG)
+![Portfolio](https://res.cloudinary.com/dpj88/image/upload/v1591546782/full%20stack/p3/blogindex_rjqqf0.png)
 
 ### Whats used
 | Languages Usage | Framework | Styling | Js |
