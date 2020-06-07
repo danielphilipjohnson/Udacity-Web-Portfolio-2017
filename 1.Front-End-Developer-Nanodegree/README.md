@@ -27,7 +27,7 @@ Completed Udacity Front End Projects: https://www.udacity.com/course/front-end-w
 ### Module 2: Interactive Resume                       
 
 
-![Interactive Resume](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P2-INTERACTIVE%20RESUME/mydesign.PNG)
+![Interactive Resume](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P2-Interactive-Resume/mydesign.PNG)
 
 #### JavaScript Basics
 
