@@ -13,9 +13,10 @@ Completed Udacity Front End Projects: https://www.udacity.com/course/front-end-w
 
 
 ### Module 1: Build a Portfolio Site                      
-#### Introduction to Web Development
 
 ![Build a Portfolio Site](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P1-Portfolio/rubrics/mydesign.PNG)
+
+#### Introduction to Web Development
 
 - Precisely translate initial design documents into static web pages
 - Diligently employ a code/test/refine strategy
@@ -24,9 +25,11 @@ Completed Udacity Front End Projects: https://www.udacity.com/course/front-end-w
 
 
 ### Module 2: Interactive Resume                       
-#### JavaScript Basics
+
 
 ![Interactive Resume](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P2-INTERACTIVE%20RESUME/mydesign.PNG)
+
+#### JavaScript Basics
 
 - Transform static web pages into dynamic applications
 - Use variables, data structures, conditional statements, loops, and function in JavaScript
@@ -37,12 +40,12 @@ Completed Udacity Front End Projects: https://www.udacity.com/course/front-end-w
 
 
 ### Module 3: Classic Arcade Game Clone               
-#### OOP Javascript & HTML5 Canvas
 
 ![Classic Arcade Game Clone](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P3-Arcade-Game-Frogger/gameui.PNG)
 
-Add entities to a game loop engine and create the classic arcade game Frogger
+#### OOP Javascript & HTML5 Canvas
 
+- Add entities to a game loop engine and create the classic arcade game Frogger
 - Utilize the various object-oriented programming features within JavaScript
 - Write reusable and maintainable libraries
 - Create well architected and performant applications
@@ -52,6 +55,9 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 
 
 ### Module 4: Website Optimization Browser        
+
+![Website Optimization](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P4-Website-optimization/completed.PNG)
+
 #### Rendering and Web Performance Optimization RAIL, jank, critical rendering path
 
 - Recognize the four distinct phases in an app's lifecycle: Response, Animation, Idle and Load (RAIL)
@@ -59,12 +65,13 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 - Optimize layers to reduce the number of steps the browser needs to take to render each frame
 - Measure performance via the Timeline view in Chrome Developer Tools
 - Use key metrics to triangulate potential performance bottlenecks
-![Website Optimization](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P4-Website-optimization/completed.PNG)
+
 
 ### Module5: Neighborhood Map 	
-#### AJAX & JavaScript Design Patterns
 
 ![Neighborhood Map](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P5-Neighborhood-Map/completed_project.PNG)
+
+#### AJAX & JavaScript Design Patterns
 
 - Create a single page app featuring a map of a neighborhood of your choice
 - Query servers using AJAX
@@ -75,9 +82,10 @@ Add entities to a game loop engine and create the classic arcade game Frogger
 
 
 ### Module 6:  Feed Reader Testing         
-#### JavaScript Testing
 
 ![Feed Reader Testing](https://github.com/danielphilipjohnson/Udacity-Web-Portfolio-2017/blob/dev0.1/1.Front-End-Developer-Nanodegree/P6-Feed-Reader-Testing/completed.PNG)
+
+#### JavaScript Testing
 
 - Complete a test suite for an existing web-based application
 - Write comprehensive suites of tests to validate your application is functioning as intended at all times
