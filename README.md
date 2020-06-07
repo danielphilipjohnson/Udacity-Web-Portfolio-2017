@@ -22,12 +22,12 @@ Projects
 #### Module 1: Build a Portfolio Site
 ##### Introduction to Web Development
 
-    - Precisely translate initial design documents into static web pages
-    - Diligently employ a code/test/refine strategy
-    - Investigate the Document Object Model (DOM)
-    - Create and personalize your own multi-platform, responsive CSS framework 
-    - Codepen
-    - Image
+- Precisely translate initial design documents into static web pages
+- Diligently employ a code/test/refine strategy
+- Investigate the Document Object Model (DOM)
+- Create and personalize your own multi-platform, responsive CSS framework 
+- Codepen
+- Image
 
 #### Module 2: Interactive Resume
 ##### JavaScript Basics
