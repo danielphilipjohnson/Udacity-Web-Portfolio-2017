@@ -5,6 +5,6 @@
 
 
 ## To do
-- wrap canvas text
+- Wrap canvas text
 - Allow font fixe increase
 - Allow user to define a hex color
